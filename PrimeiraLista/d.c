@@ -5,7 +5,7 @@ int main (){
 
 	scanf("%d %d %d %d", &a, &b, &c, &d);//entrada de valores
 
-	printf("DIFERENCA = %d\n", (a*b-c*d));//saída de acordo com especifição do problema
+	printf("DIFERENCA = %d\n", (a*b-c*d));//saída de acordo com a especificação do problema
 
 	return 0;	
 }
